@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #f7f7f7;
+    
+}
+
+.container{
+    width: 100%;
+    max-width: 1300px;
+    padding-inline: 20px;
+    margin: 0 auto;
+}
